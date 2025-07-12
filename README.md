@@ -7,7 +7,6 @@
 
 ### 👨‍💻 About Me
 - 💡 I build apps that blend logic and design  
-- 🐟 Founder of **Master Koi BOT** – automated koi auction system  
 - 🍃 Building an AI-powered leaf classification system using CNN & Transfer Learning  
 - 🎨 I love turning wireframes into clean, modern UI  
 - 🌱 Currently learning: Deep Learning, API Integrations, UI Animation
